@@ -5,6 +5,7 @@ i am Andre Bergemann. A computer science Student from Germany.
 #### I am currently working at/as
 - [Flavia IT-Managment GMBH: Devops Engineer](https://www.flavia-it.de/en/index.html)
 
+<!--
 #### Languages and Tools
 
 <p align="left">
@@ -25,8 +26,6 @@ i am Andre Bergemann. A computer science Student from Germany.
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
 </p>
 
-
-<!--
 **andre-bergemann/andre-bergemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
